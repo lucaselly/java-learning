@@ -1,0 +1,21 @@
+# Build output (Maven) - ignora em qualquer subpasta de exercício
+**/target/
+
+# Arquivos compilados
+*.class
+
+# NetBeans
+**/nbproject/private/
+**/nb-configuration.xml
+
+# TMC (arquivos de cache/estado do plugin, se aparecerem)
+**/.tmc.json
+
+# IDE genérico
+.idea/
+*.iml
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
