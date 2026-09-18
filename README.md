@@ -22,3 +22,8 @@ Tools used:
 | Greeting | Combined string literals and user input to build a custom greeting | [3. Reading Input](https://java-programming.mooc.fi/part-1/3-reading) |
 | Conversation | Read multiple inputs and printed them back in a structured way | [3. Reading Input](https://java-programming.mooc.fi/part-1/3-reading) |
 | Story | Read several strings into separate variables and combined them into a short story | [3. Reading Input](https://java-programming.mooc.fi/part-1/3-reading) |
+| VariousVariables | Declared and printed variables of different types (`String`, `int`, `double`, `boolean`) | [4. Variables](https://java-programming.mooc.fi/part-1/4-variables) |
+| IntegerInput | Read an integer from user input using `Scanner` and `Integer.valueOf` | [4. Variables](https://java-programming.mooc.fi/part-1/4-variables) |
+| DoubleInput | Read a floating-point value from user input using `Scanner` and `Double.valueOf` | [4. Variables](https://java-programming.mooc.fi/part-1/4-variables) |
+| BooleanInput | Read a boolean value from user input using `Scanner` and `Boolean.valueOf` | [4. Variables](https://java-programming.mooc.fi/part-1/4-variables) |
+| DifferentTypesOfInput | Combined reading of multiple variable types (`String`, `int`, `double`, `boolean`) in a single program | [4. Variables](https://java-programming.mooc.fi/part-1/4-variables) |
