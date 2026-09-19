@@ -27,3 +27,11 @@ Tools used:
 | DoubleInput | Read a floating-point value from user input using `Scanner` and `Double.valueOf` | [4. Variables](https://java-programming.mooc.fi/part-1/4-variables) |
 | BooleanInput | Read a boolean value from user input using `Scanner` and `Boolean.valueOf` | [4. Variables](https://java-programming.mooc.fi/part-1/4-variables) |
 | DifferentTypesOfInput | Combined reading of multiple variable types (`String`, `int`, `double`, `boolean`) in a single program | [4. Variables](https://java-programming.mooc.fi/part-1/4-variables) |
+| SecondsInADay | Calculated the number of seconds in a day using arithmetic operations | [5. Calculating with Numbers](https://java-programming.mooc.fi/part-1/5-calculating) |
+| SumOfTwoNumbers | Read two numbers and printed their sum | [5. Calculating with Numbers](https://java-programming.mooc.fi/part-1/5-calculating) |
+| SumOfThreeNumbers | Read three numbers and printed their sum | [5. Calculating with Numbers](https://java-programming.mooc.fi/part-1/5-calculating) |
+| AdditionFormula | Read two numbers and printed the calculation as a formula (e.g. `3 + 4 = 7`) | [5. Calculating with Numbers](https://java-programming.mooc.fi/part-1/5-calculating) |
+| MultiplicationFormula | Read two numbers and printed the calculation as a formula (e.g. `3 * 4 = 12`) | [5. Calculating with Numbers](https://java-programming.mooc.fi/part-1/5-calculating) |
+| AverageOfTwoNumbers | Read two numbers and calculated their average, using `double` casting to avoid integer division | [5. Calculating with Numbers](https://java-programming.mooc.fi/part-1/5-calculating) |
+| AverageOfThreeNumbers | Read three numbers and calculated their average, using `double` casting to avoid integer division | [5. Calculating with Numbers](https://java-programming.mooc.fi/part-1/5-calculating) |
+| SimpleCalculator | Read two numbers and an operator, then performed the corresponding calculation | [5. Calculating with Numbers](https://java-programming.mooc.fi/part-1/5-calculating) |
