@@ -35,3 +35,11 @@ Tools used:
 | AverageOfTwoNumbers | Read two numbers and calculated their average, using `double` casting to avoid integer division | [5. Calculating with Numbers](https://java-programming.mooc.fi/part-1/5-calculating) |
 | AverageOfThreeNumbers | Read three numbers and calculated their average, using `double` casting to avoid integer division | [5. Calculating with Numbers](https://java-programming.mooc.fi/part-1/5-calculating) |
 | SimpleCalculator | Read two numbers and an operator, then performed the corresponding calculation | [5. Calculating with Numbers](https://java-programming.mooc.fi/part-1/5-calculating) |
+| SpeedingTicket | Used comparison operators and `if/else` to check whether a given speed exceeds a limit | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| CheckYourIndentation | Practiced correct code block indentation with `if` statements | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| Orwell | Used a conditional statement to compare a number against a specific value | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| Ancient | Used comparison operators to check if a given age falls into a specific range | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| Positivity | Used `if/else if/else` to classify a number as positive, negative, or zero | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| Adulthood | Used a conditional statement to check whether a given age qualifies as an adult | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| LargerThanOrEqualTo | Compared two numbers using the `>=` operator and conditional statements | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| GradesAndPoints | Used an `if/else if/else` chain to convert a numeric score into a letter grade | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
