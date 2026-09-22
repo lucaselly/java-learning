@@ -50,3 +50,12 @@ Tools used:
 | CheckingTheAge | Combined comparison and logical operators (`&&`, `||`) to validate whether an age falls within an allowed range | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
 | LeapYear | Combined the modulo operator with logical operators to determine whether a year is a leap year | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
 | GiftTax | Used an `if/else if/else` chain to calculate a tax value based on numeric brackets | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+
+## Part 2
+
+| Exercise | What I practiced | Course link |
+|----------|-------------------|-------------|
+| Squared | Read a number and calculated its square | [1. Problems and Patterns](https://java-programming.mooc.fi/part-2/1-problems-and-patterns) |
+| SquareRootOfSum | Read two numbers, summed them, and calculated the square root of the result using `Math.sqrt` | [1. Problems and Patterns](https://java-programming.mooc.fi/part-2/1-problems-and-patterns) |
+| AbsoluteValue | Read a number and calculated its absolute value using `Math.abs` | [1. Problems and Patterns](https://java-programming.mooc.fi/part-2/1-problems-and-patterns) |
+| ComparingNumbers | Read two numbers and used conditional statements to compare them | [1. Problems and Patterns](https://java-programming.mooc.fi/part-2/1-problems-and-patterns) |
