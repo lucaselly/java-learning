@@ -16,6 +16,7 @@ Tools used:
 | Sandbox | Familiarized myself with the development environment | [1. Starting Programming](https://java-programming.mooc.fi/part-1/1-starting-programming) |
 | AdaLovelace | Used `System.out.println` and string concatenation | [2. Printing](https://java-programming.mooc.fi/part-1/2-printing) |
 | OnceUponATime | Practiced output formatting with multiple lines | [2. Printing](https://java-programming.mooc.fi/part-1/2-printing) |
+| Dinosaur | Practiced the `System.out.println` shorthand and printing a short multi-line story | [2. Printing](https://java-programming.mooc.fi/part-1/2-printing) |
 | Message | Used `Scanner` to read user input and printed it back | [3. Reading Input](https://java-programming.mooc.fi/part-1/3-reading) |
 | HiAdaLovelace | Read the user's name and concatenated it into a greeting message | [3. Reading Input](https://java-programming.mooc.fi/part-1/3-reading) |
 | MessageThreeTimes | Read a single input and printed it multiple times using a saved variable | [3. Reading Input](https://java-programming.mooc.fi/part-1/3-reading) |
@@ -43,3 +44,9 @@ Tools used:
 | Adulthood | Used a conditional statement to check whether a given age qualifies as an adult | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
 | LargerThanOrEqualTo | Compared two numbers using the `>=` operator and conditional statements | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
 | GradesAndPoints | Used an `if/else if/else` chain to convert a numeric score into a letter grade | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| OddOrEven | Used the modulo operator inside a conditional to determine if a number is odd or even | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| Password | Used the `equals` method to compare user input against a stored password | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| Same | Used the `equals` method to check whether two strings entered by the user were the same | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| CheckingTheAge | Combined comparison and logical operators (`&&`, `||`) to validate whether an age falls within an allowed range | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| LeapYear | Combined the modulo operator with logical operators to determine whether a year is a leap year | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
+| GiftTax | Used an `if/else if/else` chain to calculate a tax value based on numeric brackets | [6. Conditional Statements](https://java-programming.mooc.fi/part-1/6-conditional-statements) |
