@@ -59,3 +59,12 @@ Tools used:
 | SquareRootOfSum | Read two numbers, summed them, and calculated the square root of the result using `Math.sqrt` | [1. Problems and Patterns](https://java-programming.mooc.fi/part-2/1-problems-and-patterns) |
 | AbsoluteValue | Read a number and calculated its absolute value using `Math.abs` | [1. Problems and Patterns](https://java-programming.mooc.fi/part-2/1-problems-and-patterns) |
 | ComparingNumbers | Read two numbers and used conditional statements to compare them | [1. Problems and Patterns](https://java-programming.mooc.fi/part-2/1-problems-and-patterns) |
+| CarryOn | Used a `while` loop with `break` to repeat an action until the user chooses to exit | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
+| AreWeThereYet | Used a `while` loop to repeatedly ask the user a question until a specific input was given | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
+| OnlyPositives | Used `continue` inside a loop to skip negative numbers and process only positive ones | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
+| NumberOfNumbers | Used a loop to count how many numbers the user entered before exiting | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
+| NumberOfNegativeNumbers | Used a loop to count how many negative numbers the user entered | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
+| SumOfNumbers | Used a loop to calculate the sum of the numbers entered by the user until exit | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
+| NumberAndSumOfNumbers | Combined counting and summing the numbers entered by the user in a single loop | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
+| AverageOfNumbers | Used a loop to calculate the average of the numbers entered by the user | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
+| AverageOfPositiveNumbers | Used a loop to calculate the average of only the positive numbers entered by the user | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
