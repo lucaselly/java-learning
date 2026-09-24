@@ -68,3 +68,11 @@ Tools used:
 | NumberAndSumOfNumbers | Combined counting and summing the numbers entered by the user in a single loop | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
 | AverageOfNumbers | Used a loop to calculate the average of the numbers entered by the user | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
 | AverageOfPositiveNumbers | Used a loop to calculate the average of only the positive numbers entered by the user | [2. Repeating Functionality](https://java-programming.mooc.fi/part-2/2-repeating) |
+| Counting | Used a `for` loop to print a sequence of numbers within a range | [3. More Loops](https://java-programming.mooc.fi/part-2/3-more-loops) |
+| CountingToHundred | Used a loop to count and print numbers up to one hundred | [3. More Loops](https://java-programming.mooc.fi/part-2/3-more-loops) |
+| FromWhereToWhere | Used variables to define the start and end of a `for` loop's interval | [3. More Loops](https://java-programming.mooc.fi/part-2/3-more-loops) |
+| SumOfASequence | Used a `for` loop to calculate the sum of a sequence of numbers within a range | [3. More Loops](https://java-programming.mooc.fi/part-2/3-more-loops) |
+| SumOfASequenceTheSequel | Extended the previous exercise to calculate the sum of a sequence with different bounds/conditions | [3. More Loops](https://java-programming.mooc.fi/part-2/3-more-loops) |
+| Factorial | Used a loop to calculate the factorial of a number | [3. More Loops](https://java-programming.mooc.fi/part-2/3-more-loops) |
+| RepeatingBreakingAndRemembering | Combined `break` and `continue` with counter variables to keep the loop structure clean, placing post-loop logic outside the loop | [3. More Loops](https://java-programming.mooc.fi/part-2/3-more-loops) |
+
