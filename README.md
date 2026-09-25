@@ -75,4 +75,10 @@ Tools used:
 | SumOfASequenceTheSequel | Extended the previous exercise to calculate the sum of a sequence with different bounds/conditions | [3. More Loops](https://java-programming.mooc.fi/part-2/3-more-loops) |
 | Factorial | Used a loop to calculate the factorial of a number | [3. More Loops](https://java-programming.mooc.fi/part-2/3-more-loops) |
 | RepeatingBreakingAndRemembering | Combined `break` and `continue` with counter variables to keep the loop structure clean, placing post-loop logic outside the loop | [3. More Loops](https://java-programming.mooc.fi/part-2/3-more-loops) |
+| InAHoleInTheGround | Created a custom method with no parameters or return value that prints a fixed phrase | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| Reprint | Expanded a custom method exercise so the main program reads how many times to call the method, using a `while` loop | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| FromOneToParameter | Created a method with an `int` parameter that prints numbers from one up to the given number | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| FromParameterToOne | Created a method with an `int` parameter that prints numbers from the given number down to one | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| Division | Created a method with two `int` parameters that prints their division as a floating-point result | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| DivisibleByThree | Created a method with two `int` parameters that prints all numbers divisible by three within the given range | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
 
