@@ -80,5 +80,11 @@ Tools used:
 | FromOneToParameter | Created a method with an `int` parameter that prints numbers from one up to the given number | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
 | FromParameterToOne | Created a method with an `int` parameter that prints numbers from the given number down to one | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
 | Division | Created a method with two `int` parameters that prints their division as a floating-point result | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
-| DivisibleByThree | Created a method with two `int` parameters that prints all numbers divisible by three within the given range | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
-
+| DivisibleByThree | Created a method with two `int` parameters that prints all numbers divisible by three within the given range | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) || NumberUno | Created a method that returns an `int` value | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| Word | Created a method that returns a `String` value | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| Summation | Created a method with four `int` parameters that calculates and returns their sum | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| Smallest | Created a method with two `int` parameters that returns the smaller of the two | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| Greatest | Created a method with three `int` parameters that returns the greatest of them | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| Averaging | Created a method that calculates the average of four numbers by calling a previously created `sum` method | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| StarSign | Multi-part exercise: created methods to print a row of stars, a square, a rectangle, and a triangle, reusing the `printStars` method | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+| AdvancedAstrology | Multi-part exercise: created methods to print spaces, a right-leaning triangle, and a Christmas tree, combining `printSpaces` and `printStars` | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
