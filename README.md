@@ -88,3 +88,19 @@ Tools used:
 | Averaging | Created a method that calculates the average of four numbers by calling a previously created `sum` method | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
 | StarSign | Multi-part exercise: created methods to print a row of stars, a square, a rectangle, and a triangle, reusing the `printStars` method | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
 | AdvancedAstrology | Multi-part exercise: created methods to print spaces, a right-leaning triangle, and a Christmas tree, combining `printSpaces` and `printStars` | [4. Methods](https://java-programming.mooc.fi/part-2/4-methods) |
+
+## Part 3
+
+| Exercise | What I practiced | Course link |
+|----------|-------------------|-------------|
+| ThirdElement | Used `ArrayList.get` with an index to retrieve and print the third element of a list | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| SecondPlusThird | Used `ArrayList.get` to retrieve two elements from a list and print their sum | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| IndexOutOfBoundsException | Deliberately accessed an invalid list index to trigger an `IndexOutOfBoundsException` | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| ListSize | Used the list's `size` method to print the number of values stored in it | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| LastInList | Used the list's `size` method to retrieve and print the last value in a list | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| FirstAndLast | Used `get` and `size` together to print both the first and last values of a list | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| RememberTheseNumbers | Stored numbers entered by the user in a list and printed all of them after reading finished | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| OnlyTheseNumbers | Asked the user for a start and end index and printed only the list values within that range | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| GreatestInList | Iterated over a list to find and print the greatest number it contains | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| IndexOf | Asked the user for a number and printed every index in the list where that number was found | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| IndexOfSmallest | Found the smallest number in a list and printed every index where it occurs | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
