@@ -104,3 +104,9 @@ Tools used:
 | GreatestInList | Iterated over a list to find and print the greatest number it contains | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
 | IndexOf | Asked the user for a number and printed every index in the list where that number was found | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
 | IndexOfSmallest | Found the smallest number in a list and printed every index where it occurs | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| SumOfAList | Iterated over a list to calculate and print the sum of its numbers | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| AverageOfAList | Iterated over a list to calculate and print the average of its numbers | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| OnTheList | Used the list's `contains` method to check whether a searched string was present | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| PrintInRange | Created a method that takes a list and two limits as parameters and prints the list's values within that range | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| Sum | Created a method that takes a list as a parameter and returns the sum of its values | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| RemoveLast | Created a method that takes a list as a parameter and removes its last value, using the `remove` method | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
