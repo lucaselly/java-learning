@@ -110,3 +110,8 @@ Tools used:
 | PrintInRange | Created a method that takes a list and two limits as parameters and prints the list's values within that range | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
 | Sum | Created a method that takes a list as a parameter and returns the sum of its values | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
 | RemoveLast | Created a method that takes a list as a parameter and removes its last value, using the `remove` method | [2. Lists](https://java-programming.mooc.fi/part-3/2-lists) |
+| Swap | Used arrays and indices to swap the values at two positions chosen by the user | [3. Arrays](https://java-programming.mooc.fi/part-3/3-arrays) |
+| IndexWasNotFound | Searched an array for a number and reported its index, or that it wasn't found | [3. Arrays](https://java-programming.mooc.fi/part-3/3-arrays) |
+| SumOfArray | Created a method that takes an array as a parameter and returns the sum of its numbers | [3. Arrays](https://java-programming.mooc.fi/part-3/3-arrays) |
+| PrintNeatly | Created a method that prints an array's numbers on one line, separated by commas | [3. Arrays](https://java-programming.mooc.fi/part-3/3-arrays) |
+| PrintInStars | Created a method that prints a row of stars for each number in an array, matching the number of stars to the value | [3. Arrays](https://java-programming.mooc.fi/part-3/3-arrays) |
