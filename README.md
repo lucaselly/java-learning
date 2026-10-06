@@ -115,3 +115,7 @@ Tools used:
 | SumOfArray | Created a method that takes an array as a parameter and returns the sum of its numbers | [3. Arrays](https://java-programming.mooc.fi/part-3/3-arrays) |
 | PrintNeatly | Created a method that prints an array's numbers on one line, separated by commas | [3. Arrays](https://java-programming.mooc.fi/part-3/3-arrays) |
 | PrintInStars | Created a method that prints a row of stars for each number in an array, matching the number of stars to the value | [3. Arrays](https://java-programming.mooc.fi/part-3/3-arrays) |
+| PrintThrice | Read a string from the user and printed it three times without using a loop | [4. Using Strings](https://java-programming.mooc.fi/part-3/4-using-strings) |
+| IsItTrue | Used the `equals` method to check whether the user's input was exactly the string "true" | [4. Using Strings](https://java-programming.mooc.fi/part-3/4-using-strings) |
+| Login | Used `equals` to validate a username and password against a set of predefined users | [4. Using Strings](https://java-programming.mooc.fi/part-3/4-using-strings) |
+| LineByLine | Used the `split` method to break each line of input by whitespace and print each part separately | [4. Using Strings](https://java-programming.mooc.fi/part-3/4-using-strings) |
